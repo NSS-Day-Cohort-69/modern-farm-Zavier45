@@ -17,6 +17,17 @@ h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
   letter-spacing: 2px;
 }
+.growth {
+    font-size: x-large;
+    display:flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    padding: 25px;
+    background-color: aqua;
+    height:auto;
+    width:50%;
+
+}
 
 .blue {
     background-color: aliceblue;
